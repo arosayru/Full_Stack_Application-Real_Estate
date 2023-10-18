@@ -22,3 +22,6 @@
 <h2>Mobile view</h2>
 
 ![full-stack-application-real-estate-phi vercel app_(iPhone 12 Pro)](https://github.com/arosayru/Full_Stack_Application-Real_Estate/assets/107207994/ff40aa70-10ca-4702-a52e-13f87fdadae5)
+
+<hr />
+<p>For the knowledge provided for free, a special thank you to ZAINKEEPSCODE.</p>
