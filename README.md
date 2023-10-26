@@ -3,7 +3,7 @@
 <h2><a href="https://full-stack-application-real-estate-phi.vercel.app/">Live Server</a></h2>
 
 <h2>Introduction</h2>
-<p>In this Reactjs project, we did an awesome responsive Real Estate full stack MERN website step-by-step. 
+<p>In this Reactjs project, I did an awesome responsive Real Estate full stack MERN website step-by-step. 
   We used React hooks, React router, modern CSS, framer motion, mongodb, cloudinary,  auth0, mantine UI and many more.</p>
 
 <h3>Features</h3>
